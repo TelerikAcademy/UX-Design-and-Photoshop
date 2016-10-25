@@ -47,7 +47,7 @@
 
 
 <!-- attr: { showInPresentation:true, hasScriptWrapper:true } -->
-<!-- # HQC: Front-end track
+<!-- # Front-end track
 ## Questins? -->
 
 <!-- <img class="slide-image" showInPresentation="true" src="imgs\pic49.png" style="top:24%; left:24%; width:50%; z-index:-1; border: 1px solid white; border-radius: 5px;" /> -->
