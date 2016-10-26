@@ -5,15 +5,10 @@
 
 
 <div class="signature">
-	<p class="signature-course">Frtont-end Track</p>
+	<p class="signature-course">Front-end Track</p>
 	<p class="signature-initiative"> Telerik Software Academy</p>
 	<a href="http://telerikacademy.com" class="signature-link"> http://telerikacademy.com </a>
 </div>
-
-
-
-
-
 
 
 <!-- section start -->
@@ -29,7 +24,7 @@
 <!-- <img class="slide-image" showInPresentation="true" src="imgs\front-end.png" style="top:15%; left:25%; width:50%; z-index:-1; background-color: white; border-radius: 5px;" /> -->
 
 
-<!-- attr: { showInPresentation:true, hasScriptWrapper:true } -->
+<!-- attr: { showInPresentation:true, hasScriptWrapper:true, style:'font-size:0.9em' } -->
 # What's Coming Next?
 - UX Design and Photoshop Course
     - The Course Program
@@ -48,7 +43,7 @@
 
 <!-- attr: { showInPresentation:true, hasScriptWrapper:true } -->
 <!-- # Front-end track
-## Questins? -->
+## Questions? -->
 
 <!-- <img class="slide-image" showInPresentation="true" src="imgs\pic49.png" style="top:24%; left:24%; width:50%; z-index:-1; border: 1px solid white; border-radius: 5px;" /> -->
 
