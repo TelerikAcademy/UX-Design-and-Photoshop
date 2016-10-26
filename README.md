@@ -1,5 +1,5 @@
 # UX Design and Photoshop
-Repository for the course [{UX Design and Photoshop}](http://telerikacademy.com/Courses/Courses/Details/390) at [Telerik Academy](https://telerikacademy.com)
+Repository for the course [{UX Design and Photoshop}](http://telerikacademy.com/Courses/Courses/Details/392) at [Telerik Academy](https://telerikacademy.com)
 ## Course program
 ### [01. UX-Intro](./Topics/01. UX-Intro)
 ##### [<img src=https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png height="18"/>Presentation](https://github.com/TelerikAcademy/UX-Design-and-Photoshop/raw/master/Topics/01.%20UX-Intro/01.%20UX-Intro.pptx)
