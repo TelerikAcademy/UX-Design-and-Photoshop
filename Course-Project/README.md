@@ -38,4 +38,9 @@ _UX Design and Photoshop_
 
 - Build a new design based on http://ui.telerikacademy.com
   - You can reuse existing components
-  - You must limit to the colors from this pallete
+  - You must limit to the colors from this palette
+
+##  Task 3: Prototype
+
+- Create a simple static prototype using HTML & CSS
+  - Just proof-of-concept, no need to be much pretty or even functional
