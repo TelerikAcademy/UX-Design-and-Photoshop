@@ -17,7 +17,7 @@ Repository for the course [{UX Design and Photoshop}](http://telerikacademy.com/
 ##### [<img src=https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png height="18"/>Presentation](https://github.com/TelerikAcademy/UX-Design-and-Photoshop/raw/master/Topics/05.%20UI-UX-Design-Principles/05.%20UI-UX-Design-Principles.pdf)
 
 ### [06. Data-Viz-Patterns](./Topics/06. Data-Viz-Patterns)
-##### [<img src=https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png height="18"/>Presentation](https://github.com/TelerikAcademy/UX-Design-and-Photoshop/raw/master/Topics/06.%20Data-Viz-Patterns/06.%20Data-Viz-Patterns.pptx)
+##### [<img src=https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png height="18"/>Presentation](https://github.com/TelerikAcademy/UX-Design-and-Photoshop/raw/master/Topics/06.%20Data-Viz-Patterns/06.%20Data-Viz-Patterns.pdf)
 
 ### [07. UX-for-Tablets-and-Phones](./Topics/07. UX-for-Tablets-and-Phones)
 ##### [<img src=https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png height="18"/>Presentation](https://github.com/TelerikAcademy/UX-Design-and-Photoshop/raw/master/Topics/07.%20UX-for-Tablets-and-Phones/07.%20MobileUX_Design.pptx)
