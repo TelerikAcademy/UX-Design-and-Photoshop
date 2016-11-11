@@ -5,7 +5,7 @@ _UX Design and Photoshop_
   - The parts are as follows:
     - **Landing page**:
       - Home page http://ui.telerikacademy.com/
-      - User profile page (http://telerikacademy.com/users/DonchoMinkov)
+      - User profile page (http://ui.telerikacademy.com/users/DonchoMinkov)
         - Both for public users and the users themselves
       - Both for public and authenticated users
     - **Navigation and messages**:
