@@ -34,6 +34,9 @@ _UX Design and Photoshop_
       - Better and more beautiful way to show urgent messages to users
         - Examples: "Трябва да си изберете група", "Имате нови приятелства"
       - Both for public and authenticated users
+    - **Initiatives**
+      - **Initiatives page** - create a page, where all Telerik Academy initiatives are listed, and there is a brief description of Telerik Academy
+      - **Initiative Details** - create a page, where are shown the details about an initiative: description, archives, courses included, etc...
 
 ##  Task 1: UX
 
