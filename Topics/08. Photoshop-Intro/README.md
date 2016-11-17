@@ -1,6 +1,6 @@
 <!-- section start -->
 <!-- attr: { id:'', class:'slide-title', showInPresentation:true, hasScriptWrapper:true } -->
-# Adobe® Photoshop® CS6Essentials
+# Adobe® Photoshop® CS6 Essentials
 ## Adobe Photoshop User Interface
 <!-- <img class="slide-image" showInPresentation="true" src="imgs\pic00.png" style="top:55.00%; left:70.30%; width:36.27%; z-index:-1" /> -->
 <article class="signature">
