@@ -43,6 +43,9 @@
   - Exporting layers to files
   - Questions?
 
+<!-- section start -->
+<!-- attr: { class:'slide-section', showInPresentation:true, hasScriptWrapper:true } -->
+# Adobe Photoshop Resources
 
 <!-- attr: { showInPresentation:true, hasScriptWrapper:true } -->
 # Photoshop Resources
@@ -50,6 +53,9 @@ http://helpx.adobe.com/photoshop/archive.html
 <!-- <img class="slide-image" showInPresentation="true" src="imgs\pic03.png" style="top:25%; left:5%; width:33.67%; z-index:-1" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs\pic04.png" style="top:25%; left:60.42%; width:34.52%; z-index:-1" /> -->
 
+<!-- section start -->
+<!-- attr: { class:'slide-section', showInPresentation:true, hasScriptWrapper:true } -->
+# Workspace and Tools
 
 <!-- attr: { showInPresentation:true, hasScriptWrapper:true } -->
 # Default Photoshop Workspace
@@ -170,6 +176,9 @@ Tools<br/> Panel<br /> Overview
   - Drag a horizontal Ruler
 <!-- <img class="slide-image" showInPresentation="true" src="imgs\pic20.png" style="top:37.59%; left:55%; width:30.09%; z-index:-1" /> -->
 
+<!-- section start -->
+<!-- attr: { class:'slide-section', showInPresentation:true, hasScriptWrapper:true } -->
+# Presets and Preferences
 
 <!-- attr: { showInPresentation:true, hasScriptWrapper:true } -->
 # Presets, <br /> Plug-ins & Preferences
@@ -194,29 +203,38 @@ Tools<br/> Panel<br /> Overview
   - Edit -> Preferences -> Performance              
 <!-- <img class="slide-image" showInPresentation="true" src="imgs\pic23.png" style="top:40%; left:13.70%; width:60%; z-index:-1" /> -->
 
+<!-- section start -->
+<!-- attr: { class:'slide-section', showInPresentation:true, hasScriptWrapper:true } -->
+# Filters and Layers
+
 
 <!-- attr: { showInPresentation:true, hasScriptWrapper:true } -->
-# Filters in Photoshop
+# Filters
 Widely used for retouching, special effects and transformations. Applied to the active layers or selections.  
 -           Filter -> Filter Gallery   
 <!-- <img class="slide-image" showInPresentation="true" src="imgs\pic24.png" style="top:50%; left:24.75%; width:54.98%; z-index:-1" /> -->
-
-
-<!-- attr: { showInPresentation:true, hasScriptWrapper:true } -->
-# File formats in Photoshop
-- .PSD (Photoshop Document)- the default format that Photoshop uses for saving data.
-- .JPEG (Joint Photographic Experts Group)- commonly used format for displaying photographs.
-- .PNG (Portable Network Graphics)
--     - file format for image compression
-- .TIFF (Tagged Image File Format)- commonly used format for exchanging bitmaps.
-
 
 <!-- attr: { showInPresentation:true, hasScriptWrapper:true } -->
 # Exporting Layers
 - File >> Scripts >> Export layers to files
 <!-- <img class="slide-image" showInPresentation="true" src="imgs\pic25.png" style="top:19.83%; left:28.36%; width:52.35%; z-index:-1" /> -->
 
+<!-- section start -->
+<!-- attr: { class:'slide-section', showInPresentation:true, hasScriptWrapper:true } -->
+# File Formats
 
+<!-- attr: { showInPresentation:true, hasScriptWrapper:true } -->
+# File formats in Photoshop
+- `.PSD` (Photoshop Document)- the default format that Photoshop uses for saving data.
+- `.JPEG` (Joint Photographic Experts Group)- commonly used format for displaying photographs.
+- `.PNG` (Portable Network Graphics)
+-     - file format for image compression
+- `.TIFF` (Tagged Image File Format)- commonly used format for exchanging bitmaps.
+
+
+
+
+<!-- section start -->
 <!-- attr: { class:'slide-section', showInPresentation:true, hasScriptWrapper:true } -->
 # Adobe Photoshop User Interface
 ## Questions?
