@@ -57,3 +57,15 @@ _UX Design and Photoshop_
   - Just proof-of-concept, no need to be much pretty or even functional
 
 ##  Task Bonus:
+
+## Criteria
+
+- Photoshop files
+  - Correct unit type must be used e.g. pixels
+  - Files must be well organized and structured e.g. proper layer names; good use of groups
+  - Use layer comps, if applicable
+  - Try to use layers based on types e.g. fill of gradient layers instead of raster layer with color overlay / gradient overlay
+- Prototypes
+  - Not built with tables
+  - Built without using absolute position (absolute position can be used, but not for everything)
+  - Responsive means having one page that adapts, no several showing different viewports
