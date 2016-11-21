@@ -26,7 +26,7 @@ Repository for the course [{UX Design and Photoshop}](http://telerikacademy.com/
 ##### [<img src=https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png height="18"/>Presentation](https://rawgit.com/TelerikAcademy/UX-Design-and-Photoshop/master/Topics/08.%20Photoshop-Intro/index.html)
 
 ### [09. Masks-Selection-Paths](./Topics/09. Masks-Selection-Paths)
-##### [<img src=https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png height="18"/>Presentation](https://github.com/TelerikAcademy/UX-Design-and-Photoshop/raw/master/Topics/09.%20Masks-Selection-Paths/08.%20Masks-selection-paths.pptx)
+##### [<img src=https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png height="18"/>Presentation](https://github.com/TelerikAcademy/UX-Design-and-Photoshop/raw/master/Topics/09.%20Masks-Selection-Paths/08.%20Masks-selection-paths.pdf)
 
 ### [11. Drawing](./Topics/11. Drawing)
 ##### [<img src=https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png height="18"/>Presentation](https://github.com/TelerikAcademy/UX-Design-and-Photoshop/raw/master/Topics/11.%20Drawing/11.%20Drawing.pptx)
